@@ -5,7 +5,7 @@ title: "Verträge"
 <h1>Dynastische Eheverträge der frühen Neuzeit</h1>
 
 
-{{<slider>}}
+
 
 
 
