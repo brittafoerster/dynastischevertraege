@@ -1,0 +1,1 @@
+navigator.serviceWorker&&navigator.serviceWorker.register("/dynastische_ehevertraege/sw.js",{scope:"/"})
