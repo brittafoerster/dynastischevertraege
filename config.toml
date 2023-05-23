@@ -3,7 +3,7 @@
 baseURL = '/'
 title = 'Dynastische Eheverträge'
 theme = 'book'
-
+relativeURLs = true
 # Book configuration
 #disablePathToLower = true
 #enableGitInfo = true
@@ -27,8 +27,8 @@ theme = 'book'
  # languageName = 'English'
  # contentDir = 'content.en'
  # weight = 1
-paginate = 200
-disableKinds = ['taxonomy', 'taxonomyTerm']
+paginate = 10
+#disableKinds = ['taxonomy', 'taxonomyTerm']
 
 [menu]
 [[menu.before]]
