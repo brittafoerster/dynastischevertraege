@@ -1,0 +1,546 @@
+---
+title: "Glossar"
+
+
+---
+<div style="text-align: justify">
+<p>
+
+## Glossar
+[Akteur](#akteur) [Apanage](#apanage) [Auflösung](#auflösung) [Ausstattung](#ausstattung) [Aussteuer](#aussteuer) [Beilager](#beilager)  [Brautjuwelen](#brautjuwelen) [Brautschatz](#brautschatz) [Brautschmuck](#brautschmuck) [Contrados](#contrados) [Dispens](#dispens) [Donatio propter nuptias](#donatio) [Dynastische Ehe](#dynastische) [Ehegeld](#ehegeld) [Ehegüter](#ehegüter) [Eheschließung per procura](#eheschließung) [Ehevertrag](#ehevertrag) [Erbverbrüderung](#erbverbrüderung) [Erbverzicht](#erbverzicht) [Handgeld](#handgeld) [Heimfall](#heimfall) [Heiratsgeld](#heiratsgeld) [Heiratsgut](#heiratsgut) [Leibgedinge](#leibgedinge) [Leibrente](#leibrente) [Leibzucht](#leibzucht) [Mitgift](#mitgift) [Morgengabe](#morgengabe) [Primogenitur](#primogenitur) [Prokurator](#prokurator) [Regalien](#regalien) [Rückfall](#rückfall) [Überführung](#überführung) [Verschreibung](#verschreibung) [Widerfall](#widerfall) [Widerlage](#widerlage) [Wittum](#wittum)
+
+
+
+### A
+#### Akteur 
+Als Akteur für die Braut oder den Bräutigam werden in den Vertragsregesten der Datenbank diejenigen Personen bezeichnet, die als fürstliche Verhandlungsparteien in den Vertragsverhandlungen bzw. Verträgen auftraten. Hierbei handelt es sich nicht um einen Quellenbegriff, sondern eine Beschreibungskategorie, die in der Datenbank systematische Verwendung findet. Dynastische Eheverträge wurden meist nicht direkt zwischen den Personen, die die Ehe eingehen sollten, verhandelt und geschlossen, sondern zwischen deren fürstlichen Eltern – v. a. den Vätern – oder, falls diese nicht mehr lebten, anderen vorwiegend männlichen Verwandten und rechtlichen Vormündern. Als Beispiel kann der Ehevertrag zwischen England und Spanien von 1503 dienen: Der Vertrag besiegelte die zukünftige Vermählung Heinrichs, des Prinzen von Wales (1491–1547), der später als König Heinrich VIII. von 1509 bis zu seinem Tod England regierte, mit seiner ersten Frau, Katharina von Aragon (1485–1536). Sie entstammte dem kastilisch-aragonischen Herrscherhaus Trastámara und war die Witwe von Heinrichs älterem Bruder Arthur. Der Vertrag wurde von Heinrichs Vater, Heinrich VII. und Katharinas Eltern, Isabella von Kastilien und Ferdinand von Aragon ausgehandelt. Sie sind im Regest dementsprechend als Akteure für das Brautpaar angegeben. In den Verträgen selbst werden die fürstlichen Akteure mitunter als Prinzipale bezeichnet (vgl. z. B. den Ehevertrag Brandenburg – Frankreich 1517). Obgleich Isabella von Kastilien neben ihrem Ehemann als gleichberechtigte Akteurin für ihre Tochter auftrat, beschränkte sich die Rolle von Müttern im Prozess dynastischer Eheschließungen oft auf die Eheanbahnung. Die konkreten Verhandlungen führten in der Regel professionelle Diplomaten als Vertreter der beteiligten Dynastien. Diese Verhandler werden in den Verträgen zwar oft namentlich erwähnt, sind in den Regesten aber nicht als Akteure für die Brautleute aufgeführt, da sie eine stellvertretende Funktion für die fürstlichen Vertragsparteien ausübten. Dass Eltern, Verwandte oder Vormünder Eheverträge für das Brautpaar aushandelten und abschlossen, kam keineswegs nur in Fällen vor, in denen die zukünftigen Eheleute selbst noch nicht das mündige Alter erreicht hatten. Vor allem Prinzessinnen verhandelten üblicherweise nicht für sich selbst. Männlichen Mitgliedern frühneuzeitlicher Fürstenhäuser war dies vor allem dann möglich, wenn es sich bei Ihnen um das amtierende Oberhaupt ihrer dynastischen Linie handelte (prominente Beispiele sind die Eheverträge zwischen Schottland und Dänemark 1589 sowie Frankreich und Spanien 1659).
+
+##### Literatur:
+Büttner/Haas 2019\
+Berg 2013, S. 35-37\
+Loades 2009, S. 17-20\
+Marra 2007, S. 64\
+Scarisbrick 2011, S. 7-9\
+Schönpflug 2013, S. 160, 176\
+Walther 2011, S. 68, 83-84\
+[Vollständige Literaturangaben](/literatur.pdf)
+
+
+[nach oben](#glossar)(#glossar)
+
+#### Apanage
+Die Apanage bezeichnet die Ausstattung, die von dem regierenden Fürsten an Familienmitglieder vergeben wurde, um deren Auskommen zu sichern. Die Apanage konnte aus finanziellen Leistungen, Naturalien und/oder der Zuweisung von Land bestehen. Diese Zuwendung sollte dafür sorgen, dass die Söhne, die nicht regierungsberechtigt waren (Primogenitur), ein standesgemäßes Leben führen konnten. In der Regel war die Apanage, gleich wie sie ausfiel, an die jeweilige Person gebunden. Vererbt werden konnte sie höchstens in der direkten Linie des Mannes. War die Person, der die Apanage gewährt wurde, weiblich, hatte sie mit einer Eheschließung meist kein Recht mehr auf den Erhalt der Zuwendungen. Vergebene Ländereien verblieben unter der Landeshoheit des jeweiligen Fürsten. Weitere Bezeichnungen sind: Pension, Erbgebührnis etc. Der Begriff Apanage ist erst ab dem 16./17. Jahrhundert gebräuchlich, die Apanagierung an sich wurde allerdings schon länger angewendet.
+
+##### Literatur:
+
+Schnettger 2019\
+Richard/Maksimović 1980\
+[Vollständige Literaturangaben](/literatur.pdf)
+
+[nach oben](#glossar)
+
+#### Auflösung
+Mit der Auflösung der Ehe ist im Kontext dynastischer Eheverträge der Frühen Neuzeit im Regelfall nicht eine Eheauflösung im Sinne der Ehescheidung gemeint, sondern die Auflösung durch den Todesfall eines der Ehepartner. In einem Ehevertrag zwischen Fürstenhäusern die Möglichkeit einer zukünftigen Ehescheidung zu thematisieren, wäre wohl sowohl aus normativer wie auch politischer Perspektive inopportun gewesen. Dynastische Eheverträge suggerierten nicht selten die Absicht, ‚ewige‘ Bündnisse und dauerhaften Frieden zu stiften (vgl. u. a. die Eheverträge zwischen Frankreich und England 1581 sowie Portugal und Österreich 1708). Wie neuere Forschungen gezeigt haben, verbanden die Vertragsparteien mit dynastischen Ehen tatsächlich zwar keine umfassenden Entwürfe zukünftiger Bündnisstrukturen oder Friedensordnungen, die Erwähnung möglicher Ehescheidungen in den Verträgen hätte zukünftige Konflikte aber regelrecht vorweggenommen und wäre vermutlich kontraproduktiv gewesen. Überdies galt die Ehe nach dem kanonischen Recht und religiösen Verständnis der Zeitgenossen als eine göttlich gestiftete, potenziell unaufhebbare Verbindung. Das Konzil von Trient (1545–1563) bekräftigte die Rechtsauffassung der römisch-katholischen Kirche, wonach die Ehe ein Sakrament war und dem Grundsatz absoluter Unauflöslichkeit unterlag; allein der Tod eines Ehegatten konnte die rechtmäßige eheliche Verbindung demnach lösen. Dies bedeutet, dass Eheauflösungen nur dadurch möglich waren, dass die kirchliche Gerichtsbarkeit eine Ehe als ungültig anerkannte und annullierte. Im Zuge der Reformation lösten sich protestantische Ehevorstellungen von der katholischen Norm ab, insbesondere der Sakramentscharakter der Ehe wurde nun bestritten. Ehescheidungen wurden von den meisten Reformatoren dennoch nur in bestimmten, schwerwiegenden Fällen als legitim angesehen, die juristischen Möglichkeiten zur Eheauflösung bleiben auch hier streng begrenzt.
+
+##### Literatur:
+
+Buchholz 2008\
+Kampmann 2017, S. 133-135\
+Lutz 2006, S. 133-147\
+Scholz-Löhning 2019\
+Van Dülmen 2005, S. 178-183\
+[Vollständige Literaturangaben](/literatur.pdf)
+
+[nach oben](#glossar)
+
+#### Ausstattung
+Rechtsgeschichtlich lässt sich unter Ausstattung eine väterlicher- und/oder mütterlicherseits erfolgende Vermögenszuwendung an ein Kind im Rahmen von dessen Verheiratung. Als Unterkategorien der Ausstattung nennt Olechowski beispielweise die Aussteuer der Braut und andere Absicherungsleistungen für Söhne. U. a. in diesem Bedeutungszusammenhang findet der Begriff auch in den Vertragsregesten der Datenbank Verwendung.
+
+##### Literatur:
+
+Olechowski 2008a\
+[Vollständige Literaturangaben](/literatur.pdf)
+
+[nach oben](#glossar)
+
+#### Aussteuer
+Der Begriff der Aussteuer bezeichnet Besitz, den die Braut im Zuge der Eheschließung in die eheliche Gemeinschaft zur gemeinsamen Nutzung einbrachte. Zusammen mit der Mitgift, die in dynastischen Eheverträgen überwiegend in Form von Geldleistungen festgesetzt wurde, bildete die Aussteuer laut etlichen dynastischen Eheverträgen einen Teil des von der Familie der Braut gestellten sogenannten Heiratsguts. Art und Umfang des Heiratsguts wurde in solchen Eheverträgen meist detailliert geregelt. Im Gegensatz zur Mitgift bestand die Aussteuer in der Regel in Schmuck und Wertgegenständen sowie Kleidern und anderen Textilien, Hausrats- und Gebrauchsgegenständen, die allerdings aufgrund des Materials, aus dem sie bestanden, ebenfalls von erheblichem Wert sein konnten. Dynastische Eheverträge aus dem deutschen Sprachraum erwähnen beispielsweise häufig die Mitgabe von Silbergeschirr im Rahmen der Aussteuer. Art und Umfang der Aussteuer waren immer auch Ausweis des sozialen Status der Braut. Anders als die Mitgift diente die Aussteuer nicht dem Aufbau einer dauerhaften finanziellen Existenzsicherung, sondern stellte eine Erstausstattung des neu begründeten Haushalts dar. Während der Bräutigam gegenüber der Brautfamilie einen Anspruch auf eine Mitgift hatte, war der Anspruch auf Aussteuer ein Anspruch der Braut gegenüber ihrer eigenen Familie. Nicht alle Verträge bezeichnen diese Mitgaben der Braut ausdrücklich als Aussteuer; mitunter werden sie zusammen mit der monetären Mitgift (die in deutschsprachigen Verträgen auch oft als Ehegeld bezeichnet wird) unter dem Oberbegriff des Heiratsguts subsumiert. Manchmal ist anstelle der Aussteuer in Verträgen (und den Regesten) auch von einem Brautschatz die Rede. In vielen dynastischen Eheverträgen wurde festgeschrieben, dass die Aussteuer nach dem Tod der Braut zur Nutzung beim Bräutigam verbleiben und nach dessen Tod zusammen mit dem monetären Teil des Heiratsguts an die Familie der Braut zurückfallen sollte, sofern keine erbberechtigten Leibeserben aus der Ehe vorhanden wären. Für den Fall einer Wiederverheiratung der Braut nach dem Tod des Ehemanns wurde häufig eine Herausgabe der Aussteuer an sie vereinbart, sodass sie ihre Aussteuer in die neue Ehe mitnehmen konnte. In den Regesten der Datenbank wird mitunter von der Ausstattung der Braut gesprochen, was sich auf Hausrat und Haushaltsgüter aber auch auf Kleidung und Schmuck der Braut im Sinne der Aussteuer beziehen kann.
+
+##### Literatur:
+
+Brauneder 2019\
+Essegern 2003, S. 122, 133\
+Klapisch-Zuber 1995, S. 81\
+Lanzinger 2019a\
+Schönpflug 2013, S. 105-112\
+Olechowski 2008b\
+[Vollständige Literaturangaben](/literatur.pdf)
+
+[nach oben](#glossar)
+
+### B
+#### Beilager
+Nach hergebrachter Auffassung wurde eine formell geschlossene Ehe erst durch den körperlichen Vollzug, d. h. den Vollzug Geschlechtsakts durch das Ehepaar, endgültig wirksam. Im Rahmen des Beilagers als eines formellen Hochzeitsritus wurde die geschlechtliche Vereinigung des Brautpaars einerseits symbolisch angedeutet, andererseits üblicherweise auch tatsächlich begangen. Ein Nichtvollzug des Beischlafs im Zuge des Beilagers konnte unter Umständen zu Beschwerden und Konflikten führen, um die rechtliche Gültigkeit der Eheschließung zu garantieren, reichte nach frühneuzeitlichem Verständnis jedoch der symbolische Vollzug. Das Beilager war fest in die Hochzeitsfeierlichkeiten integriert und fand für gewöhnlich am Ende des ersten Tages der statt. Es begann damit, dass das neuvermählte Paar im Beisein aller Hochzeitsgäste bzw. des gesamten Hofstaats gemeinsam das Bett bestieg. Dem Beilager folgte die Hochzeitsnacht, die am Morgen darauf mit der Überreichung der Morgengabe an die Braut endete. Die Regelung des Beilagers war ein üblicher Bestandteil dynastischer Eheverträge, ebenso wie die Festsetzung der anschließend zu überreichende Morgengabe.
+
+##### Literatur:
+
+Buchholz 2008, Sp. 1196-1197\
+Gersmann 2019\
+Hillebrand 1996, S. 79-82\
+Schröter 1991\
+Walther 2011, S. 82-83, 225\
+[Vollständige Literaturangaben](/literatur.pdf)
+
+[nach oben](#glossar)
+
+#### Brautjuwelen
+In zahlreichen dynastischen Eheverträgen der Frühen Neuzeit, die für die Datenbank ausgewertet wurden, sind Schenkungen von Schmuck, Kleinodien und Wertgegenständen an die Bräute geregelt. Diese Schenkungen konnten sowohl durch die Familie der Braut als auch den Bräutigam oder dessen Familie erfolgen. Teilweise waren Schenkungen von Juwelen auch Bestandteil der Aussteuer. Wenn in den Vertragsregesten der Datenbank die Brautjuwelen als ein Vertragsgegenstand erwähnt werden, bezieht sich dies in der Regel auf derartige Schenkungen bzw. bezeichnet den geschenkten Schmuck. Bedeutungsüberschneidungen mit Brautschatz und Brautschmuck sind möglich.
+
+##### Literatur:
+
+Becker 2015, S. 195-196\
+Büttner/Haas 2019, S. 270-271\
+[Vollständige Literaturangaben](/literatur.pdf)
+
+[nach oben](#glossar)
+
+#### Brautschatz
+In der ##### Literatur finden sich verschiedene Bedeutungen des Begriffs Brautschatz. Ennen fasst darunter z. B. allen Besitz, den die Braut in Form von Bargeld, Renten und Immobilien in die Ehe einbrachte, die rechtlich gesehen jedoch kein Teil der Aussteuer seien. Klapisch-Zuber verwendet Brautschatz als Oberkategorie für Mitgift und Aussteuer. Auch Zedlers Universal-Lexicon (18. Jh.) gibt den Brautschatz als Synonym für das Heiratsgut an. In den für die Datenbank ausgewerteten frühneuzeitlichen dynastischen Eheverträgen ist der Begriff in einem ähnlichen Bedeutungsspektrum nachweisbar, ohne dass er sich völlig präzise eingrenzen lässt. Besonders in deutschsprachigen Verträgen wurde der Ausdruck zum Teil synonym mit den Begriffen Heiratsgut bzw. Heiratsgeld oder Mitgift gebraucht (vgl. u. a. den Vertrag zwischen Hessen und Sachsen 1541 sowie zwischen Dänemark und Mecklenburg-Güstrow 1572). Teilweise lässt sich der Begriff Brautschatz in frühneuzeitlichen Eheverträgen aber im Sinne einer Schenkung von Geld oder Wertgegenständen seitens des Bräutigams oder dessen Familie an die Braut (vgl. Bejschowetz-Iserhoht). Auch in dieser Bedeutung findet der Begriff in verschiedenen Vertragsregesten der Datenbank Verwendung, allerdings in nicht immer deutlicher Abgrenzung zur Morgengabe.
+
+##### Literatur:
+
+Bejschowetz-Iserhoht 1999, S. 20\
+Ennen 1999, S. 149\
+Klapisch-Zuber 1995, S. 81-93\
+Zedler 1732-1750, Bd. 12, Sp. 1940\
+[Vollständige Literaturangaben](/literatur.pdf)
+
+[nach oben](#glossar)
+
+#### Brautschmuck
+In etlichen dynastischen Eheverträgen, die für die Datenbank ausgewertet wurden, werden Mitgaben in Form von Schmuck und wertvollen Kleinodien erwähnt. Derartige Schenkungen und Gaben durch die Familie der Braut werden manchmal in engem Zusammenhang mit Mitgift oder Aussteuer erwähnt, jedoch gesondert genannt, wodurch unklar bleibt, ob sie als genuine Teile der Mitgift oder Aussteuer oder als Sonderform der Besitzübereignung an die Braut angesehen wurden. In den Regesten wird in solchen Fällen der Ausdruck Brautschmuck verwendet. Bedeutungsüberschneidungen mit den Brautjuwelen und dem Brautschatz sind möglich.
+
+##### Literatur:
+
+Bastl 2000, S. 71-72\
+Walther 2011, S. 174\
+[Vollständige Literaturangaben](/literatur.pdf)
+
+[nach oben](#glossar)
+
+### C
+#### Contrados
+Die contrados, manchmal auch augmentum dotis genannt, bezeichnete in Eheverträgen, die in lateinischer Sprache abgefasst wurde, was in deutschsprachigen Verträgen unter dem Begriff Widerlage firmierte, nämlich eine von ihrem Wert der Mitgift bzw. dem Heiratsgeld entsprechende meist monetäre Gegenleistung des Bräutigams oder seiner Familie an die Braut. In den Vertragsregesten findet durchgängig der deutsche Ausdruck Verwendung.
+
+##### Literatur:
+
+Hübner 1918, S. 646\
+Schnath 1978, S. 585\
+Siegel 1889, S. 419\
+Stubenrauch 1894, S. 460-463\
+[Vollständige Literaturangaben](/literatur.pdf)
+
+[nach oben](#glossar)
+
+### D
+#### Dispens
+Nicht selten erwähnen dynastische Eheverträge die Einholung päpstlicher Dispense im Vorfeld der Eheschließung aufgrund besonderer verwandtschaftlicher Nähe zwischen Braut und Bräutigam. Da Fürstenehen der Frühen Neuzeit primär von politischen Interessen geleitet waren, konnte es opportun erscheinen, auch sehr nahe Verwandte miteinander zu verheiraten. Besonders das Haus Habsburg ist für eine intensive innerdynastische Ehepolitik bekannt, die auf Stabilität und Machterhalt abzielte. Heiraten ab einem bestimmten Verwandtschaftsgrad unterlagen jedoch kirchlichen Eheverboten und erforderten besondere Genehmigungen höchster kirchlicher Autoritäten. Dispense als ein Rechtsinstrument des kanonischen Rechts konnten die „Verbindlichkeit der Norm für den Einzelfall“ (Germann) aufheben. Katholische Adelshäuser mussten zwecks Dispensierung von Verwandtenehen an den Papst wenden. Wie Vocelka anmerkt, waren die europäischen Herrscherfamilien und Dynastien so eng miteinander verwandt, dass „fast jede Eheschließung im katholischen Bereich Europas […] vom Papst wegen der zu nahen Verwandtschaft der Ehepartner mit einer Dispens eigens erlaubt werden“ musste. Durch die Reformation beschränkte sich die Auswahl an Ehepartnern zusätzlich, da für konfessionsverschiedene Ehen zwischen katholischen und protestantischen Partnern hohe Hürden bestanden. Protestantische Fürsten, die nahe Verwandtenehen für sich oder ihre Verwandten ermöglichen wollten, den gegenüber den katholischen Dynastien den Vorteil, dass sie als Landesherren zugleich Oberhäupter ihrer jeweiligen Landeskirchen waren.
+
+##### Literatur:
+
+Germann 2016\
+Heimann 2020, S. 86\
+Lanzinger 2019b\
+Schilling 2007, S. 148\
+Vocelka 2020, S. 77\
+Walther 2011, S. 66-67\
+[Vollständige Literaturangaben](/literatur.pdf)
+
+[nach oben](#glossar)
+
+#### Donatio propter nuptias {#donatio}
+Zedlers Universal-Lexicon aus dem 18. Jh. setzt die donatio propter nuptias mit der Widerlage des Bräutigams gleich. Dies deckt sich mit der Bedeutung des Begriffs im Römischen Recht und anderen frühneuzeitlichen Rechtsquellen. Johann Jacob Mosers Teutsches Staats-Recht weist donatio propter nuptias hingegen auch als eines von mehreren lateinischen Synonymen des deutschen Begriffs der Morgengabe aus. Auch die moderne wissenschaftliche Historiografie kennt beide Bedeutungen des lateinischen Ausdrucks. Als weitere lateinische Bezeichnungen für die Morgengabe werden aber auch die donatio nuptialis und das donum matutinale genannt.
+
+##### Literatur:
+
+Brauneder 1998, Sp. 1348\
+Berger 1991, S. 443\
+Bock 1992, S. 37\
+Moser 1737-1753, Bd. 20, S. 242-248, 279-281\
+Wettlaufer 1999, S. 87\
+Zedler 1732-1750, Bd. 7, Sp. 1252\
+Zedler 1732-1750, Bd. 55, Sp. 2155\
+[Vollständige Literaturangaben](/literatur.pdf)
+
+[nach oben](#glossar)
+
+#### Dynastische Ehe {#dynastische}
+In der ständisch organisierten Gesellschaft im Europa der Frühen Neuzeit war es die Regel, dass Ehen zwischen Mitgliedern derselben sozialen Statusgruppe geschlossen wurden. Dies traf insbesondere auf den (Hoch-)Adel zu, der europaweit untereinander heiratete. Bei solchen Fürstenehen oder dynastischen Ehen handelte es sich üblicherweise nicht um ‚Liebeshochzeiten‘, sondern um politische und strategische Verbindungen zwischen Fürstenhäusern. Zum einen dienten solche Ehen dem „Transfer von Besitz, Rang und Stand durch die Generationen“ (Sikora) und somit dem Erhalt der Dynastie. Andererseits stellten Eheschließungen eines der wichtigsten politischen Instrumente der Interaktion und Bildung von dynastischen Verwandtschaftsnetzwerken zwischen europäischen Fürstenhäusern dar. Dynastische Ehen waren im frühneuzeitlichen Europa ein wesentliches Mittel der fürstlichen Außenbeziehungen und heiratsfähige Prinzessinnen und Prinzen somit eine zentrale Ressource der europäischen Politik. Unstandesgemäße Heiraten kamen zwar vor, bargen aber aufgrund der Bedeutung dynastischer Ehen für die Sicherheit der Dynastie erhebliches Potenzial für innerfamiliäre Konflikte. Prominentestes Sinnbild für auf eine umfassende Strategie und Politik, die vor allem auf dynastischen Eheschließungen beruhte, sind zweifellos die Habsburger. Das österreichische Adelshaus steht bis heute im Ruf, sich sein weltumspannendes Imperium im Verlauf der Frühen Neuzeit regelrecht ‚erheiratet‘ zu haben – gemäß dem bekannten Sinnspruch: „Bella gerant alii: tu felix Austria, nube!“ Die Heirat wird hier dem Krieg als Strategie der dynastischen Politik und Machtentfaltung entgegengesetzt. Dass dynastische Ehepolitik im Europa der Frühen Neuzeit einen erheblichen Einfluss auf Krieg und Frieden hatte, ist in der Forschung indes unstrittig. Uneinigkeit besteht aber hinsichtlich der Frage, ob dynastische Ehepolitik und aus ihr resultierende Erbfolgeproblematiken als eine Hauptursache der notorischen Friedlosigkeit der Frühen Neuzeit bewertet werden müssen, oder ob dynastische Ehen als (oft erfolgloser) Versuch zu sehen sind, langfristige Bündnisse und durch sie Frieden, Stabilität und Sicherheit zu erreichen. Gegenüber diesen konträren Positionen betonen neue Forschungen, dass mithilfe dynastischer Eheschließungen anstelle großangelegter politischer Entwürfe eher kurz- bis mittelfristige dynastische Interessen realisiert werden sollten. Es ging weniger um die Schaffung umfassender Friedensordnungen oder Systeme kollektiver Sicherheit, sondern vielmehr dynastischer „Möglichkeitsräume“ (Kampmann/Carl), die insofern überaus wichtig waren, als sie „fallweise konkretisierbare Optionen für Rangerhöhung und Expansion“ in Aussicht stellten. Dynastische Ehepolitik war untrennbar mit auf die eigene Dynastie bezogenen sukzessionspolitischen Sicherheitsvorstellungen verknüpft. Die Bedeutung fürstlichen Sicherheitsdenkens zeigte sich auch in der diplomatischen Praxis: Dynastische Eheschließungen folgten in ganz Europa bestimmten Mustern. Im Vorfeld fanden nicht selten langwierige Anbahnungen und Eheverhandlungen statt. Sie unterlagen festen Regeln und Abläufen und wurden zunächst meist ohne Kenntnis der Öffentlichkeit geführt, um politische Risiken, wie etwa das Scheitern des Eheprojekts und daraus folgenden Ansehensverlust, zu minimieren. Waren sie erfolgreich, mündeten sie in einen formellen Ehevertrag. Solche Verträge regelten nicht nur die Eheschließung selbst und ihre finanziell-materiellen Aspekte, sondern auch den Unterhalt der Braut während der Ehe, die Witwenversorgung sowie erb- und mitunter sukzessionsrechtliche Aspekte – beides waren zentrale Fragen der dynastischen Sicherheit. Für die Brautleute stellte die Ehe schließlich den endgültigen Eintritt in die Mündigkeit und die Begründung eines eigenen Hausstands dar. Rechtlich gesehen blieben die Ehefrauen der Vormundschaft der Ehemänner unterstellt, obgleich sie in der Hierarchie des adeligen Haushalts eine durchaus einflussreiche Stellung einnahmen. Güterrechtlich ging die Ehefrau in die Familien des Ehemanns über, was bedeutete, dass er und seine Familie sich fortan um ihre Versorgung kümmerten. Durch die Mitgabe von Ehegütern wie Mitgift und Aussteuer trug die Brautfamilie jedoch ihren Teil zur finanziellen und materiellen Versorgung der Ehefrau und ggf. späteren Witwe bei. Der andere Teil wurde durch Gaben der Mannesseite wie Widerlage und Morgengabe sowie die Verschreibung eines Wittums beigesteuert.
+
+##### Literatur:
+
+Burkhardt 1997, S. 538-541\
+Büttner/Haas 2019\
+Delille 2007\
+Gersmann 2019\
+Haas 2017, S. 323-334\
+Kägler 2014\
+Kohler 1994\
+Kampmann 2017, S. 133-135\
+Kampmann/Carl 2021, S. 540-546\
+Kampmann/Mathieu 2019\
+Klecker 1997\
+Peters 2007, S. 121\
+Schönpflug 2010, S. 155-206\
+Sikora 2005\
+Vocelka 1976, S. 11-20\
+Walther 2011, S. 203\
+Weber 1981, S. 13-17\
+[Vollständige Literaturangaben](/literatur.pdf)
+
+[nach oben](#glossar)
+
+### E
+#### Ehegeld
+Im achten Band von Zedlers Universal-Lexicon, der 1734 erschien, werden „Ehegelder“ als Gelder bezeichnet, die „adeliche Töchter aus dem Lehn zu ihrer Ausstattung erhalten, und die ihnen von ihren Brüdern müssen ausgezahlet werden.“ Das Ehegeld wird somit erkennbar im Kontext der von der Brautfamilie zu stellenden Ehegüter bzw. Mitgift verortet. An andrer Stelle im Zedler wird das Ehegeld als Synonym für Heiratsgeld und Mitgift angegeben.
+
+##### Literatur:
+
+Essegern 2003, S. 123\
+Zedler 1732-1750, Bd. 8, Sp. 341\
+Zedler 1732-1750, Bd. 12, Sp. 1940\
+[Vollständige Literaturangaben](/literatur.pdf)
+
+[nach oben](#glossar)
+
+#### Ehegüter
+Unter den Ehegütern oder auch Heiratsgütern verstanden die Menschen in der Frühen Neuzeit gemeinhin alle Güter, finanziellen und anderweitigen Leistungen und Gaben, die zur Versorgung und zum Unterhalt der Braut nach ihrer eventuellen Verwitwung vorgesehen waren. Die Ehegüter wurden die im Vorfeld einer Eheschließung zwischen den beteiligten Parteien ausgehandelt und auch in dynastischen Eheverträgen benannt und beziffert. Zu den Ehegütern zählen die Mitgift, Aussteuer, Widerlage, Morgengabe, das Wittum und Leibgedinge. Der Wert der Ehegüter wurden in Eheverträgen meist so austariert, dass die Familien von Braut und Bräutigam ungefähr gleichgroße Wertanteile beisteuerten. Allerdings begünstigte das frühneuzeitliche Ehegüterrecht Witwen und Witwer, was darin resultierte, dass sie häufig ein beträchtliches Vermögen aus der ersten in eine zweite Ehe einbrachten. Dies erklärt zumindest für nicht-adeligen Eheverträgen bisweilen nachgewiesene auffällige Differenzen zwischen der Mitgift der Braut und der Widerlage des Bräutigams. Bei adeligen Ehen hatte der Austausch der Ehegüter, der in der ##### Literatur auch als Gabentausch bezeichnet wird, allerdings die Aufgabe, symbolische Reziprozität herzustellen. Der Bruch dieses Gleichheitsverhältnisses zwischen den beteiligten Häusern stellte derjenigen Partei, die den Verstoß beging, einen Ansehens- und Ehrverlust in Aussicht.
+
+##### Literatur:
+
+Büttner/Haas 2019, S. 271-272\
+Köller 2015, S. S. 159-161\
+Langer-Ostrawsky 2010, S. 56\
+Schönpflug 2013, S. 23, S. 105-112\
+[Vollständige Literaturangaben](/literatur.pdf)\
+
+[nach oben](#glossar)
+
+#### Eheschließung per procura {#eheschließung}
+Von einer Eheschließung per procura wurde in dynastischen Eheverträgen der Frühen Neuzeit gesprochen, wenn die Parteien vereinbarten, dass die Ehe noch vor der Abreise der Braut an den Hof des Bräutigams unter Teilnahme eines Prokurators als Stellvertreter für den Bräutigam geschlossen werden sollte. Laut Vocelka/Heller hatten solche in Abwesenheit eines der Ehepartner stattfindenden Eheschließungen bis zum Vollzug der Ehe (vgl. Beilager) eher den Charakter einer Verlobung, wobei in der Forschung auch angemerkt worden ist, dass „das Verhältnis der Verlobung zur Ehe in Mittelalter und Früher Neuzeit nicht genau bestimmt werden kann“ (Büttner/Haas). Die Verlobung war demnach der erste Schritt in einem mehrstufigen Prozess der Eheschließung.
+
+##### Literatur:
+
+Büttner/Haas 2019, S. 270\
+Schönpflug 2013, S. 216-217\
+Vocelka/Heller 1998, S. 272\
+[Vollständige Literaturangaben](/literatur.pdf)\
+
+[nach oben](#glossar)
+
+#### Ehevertrag
+Dynastischen Ehen gingen in der Frühen Neuzeit manchmal jahrelange Eheanbahnungen voraus, zu denen auch die Aushandlung von Eheverträgen zwischen den beteiligten Fürstenhäusern gehörte. Eheverträge stellten eine Verschriftlichung der ursprünglich mündlichen Eheberedungen dar und waren nicht nur in den adeligen Gesellschaftsschichten verbreitet, besaßen dort aber eine hervorgehobene Bedeutung und besondere Verbreitung. Dynastische Eheverträge orientierten sich am Rechtsrahmen der Hausgesetzte der beteiligten Adelshäuser, stellten allerdings selbst auch Hausgesetzte dar. Sie regelten sowohl alle relevanten güterrechtliche Gesichtspunkte der Ehe als auch „personen- und vermögensrechtlichen Sachverhalte“ (Walther). Reguläre Gegenstände von Eheverhandlungen und -verträgen waren außerdem Verfahrensfragen zu den Verhandlungen, die Organisation von Hochzeitsfeier und Beilager, der Rang der Braut am Hof des Ehemanns, die Stellung von Bediensteten und Hofstaat der Braut sowie ihr Unterhalt während der Ehe, vor allem aber die „Heiratsgaben und die daraus konstituierten Ehegüter zum Unterhalt der Braut nach ihrer Verwitwung, also […] Mitgift, Widerlage, Aussteuer und Morgengabe, […] die Witwengüter („das Wittum“) und Witweneinkünfte („Leibgedinge“) und […] deren Aussetzung, Nutzung und Vererbung“ (Büttner/Haas). Als wichtig galten vor allem Regelungen, die das Erbrecht und insbesondere die Erbberechtigung bzw. den Erbverzicht der Braut betrafen, weil ein zentraler Aspekt dynastischer Sicherheit berührt wurde: Es sollte verhindert werden, dass die Familie des Bräutigams erbrechtliche Ansprüche auf die Stammlande der Brautfamilie erheben konnte. Als sicherheitsrelevant galten ferner die „Nutzungsrechte einer landesherrlichen Witwe aus einer fremden Dynastie auf ihren Witwengütern“ (ebd.). Für die Braut waren diese ehegüter- und erbrechtlichen Regelungen wichtige Garantien materieller Unabhängigkeit als Fürstin und Witwe und betrafen somit ihre persönliche soziale Sicherheit. Bei gemischtkonfessionellen Ehen galt es zudem, die zumeist streng auf den Privatbereich beschränkte Religionsausübung des anderskonfessionellen Ehepartners und die religiöse Erziehung gemeinsamer Kinder zu regeln.
+
+##### Literatur:
+
+Büttner/Haas 2019, S. 271-274\
+Essegern 2003, S. 135\
+Gersmann 2019\
+Lanzinger 2010\
+Ruppel 2006, S. 211\
+Signori 2011, S. 90, 97-98\
+Walther 2011, S. 71-72\
+[Vollständige Literaturangaben](/literatur.pdf)
+
+[nach oben](#glossar)
+
+#### Erbverbrüderung
+In diversen Eheverträgen, die als Regest in der Datenbank vorhanden sind, werden Erbverbrüderungen oder Erbvereinigungen erwähnt. Dabei handelt es sich um eine besondere Form dynastischer Bündnisse, die von den beteiligten Adelshäusern mit dem Ziel einer langfristigen Dauer geschlossen wurden. Ein bekanntes Beispiel ist die Erbverbrüderung der Landgrafen von Hessen mit den in Sachsen herrschenden Wettinern. Das Bündnis wurde im 15. Jh. geschlossen und hatte über viele Generationen hin bestand. Eheschließungen waren ein probater Weg, um den Bestand solcher Erbverbrüderungen zwischen den beteiligten Häusern zu sichern.
+
+##### Literatur:
+
+Kaiser 2019\
+Schlinker 2014\
+[Vollständige Literaturangaben](/literatur.pdf)
+
+[nach oben](#glossar)
+
+#### Erbverzicht
+Erbverzichtsklauseln waren in der Frühen Neuzeit ein ebenso regulärer wie wichtiger Bestandteil dynastischer Eheverträge. Aus Sicht der beteiligten Dynastien – vor allem der Brautseite – waren solche Klauseln hoch sicherheitsrelevant: Der umfassende Verzicht der Braut auf eigene Erbansprüche am väterlichen, ggf. auch mütterlichen und brüderlichen Erbe (auch als Fräuleinverzicht bekannt) zielte darauf, die Familie des Bräutigams daran zu hindern, auf erbrechtlichem Weg zukünftig Ansprüche auf Stammterritorien und Herrschaften der Brautfamilie zu erheben. Derartige Regelungen begrenzten freilich die Möglichkeiten der Sukzession und Herrschaftsausübung für verheiratete Frauen. Der Bräutigam und seine Familie bestätigten den Erbverzicht in den Eheverträgen. Hohe Mitgiftzahlungen stellten eine Gegenleistung für den Erbverzicht und seine Bestätigung dar. Nur das Aussterben der Brautfamilie im Mannesstamm konnte ein Abweichen von einem solchen vertraglich geregelten Erbverzicht begründen (vgl. exemplarisch die Eheverträge zwischen Bayern und Österreich 1546, Spanien und Kurpfalz 1689 sowie Schweden und Preußen 1744). Auf den höchsten Ebenen der europäischen Politik konnten dynastische Erbverzichtsregelungen im Rahmen von Fürstenehen Auswirkungen haben, die weit über die Interessenwahrung der beteiligten Dynastien hinausgingen.
+
+##### Literatur:
+
+Hohkamp 2007, S. 155\
+Kampmann 2013, S. 48-49\
+Kampmann/Carl 2021, S. 545\
+Walter 2011, S. 82, 129-130, 337\
+[Vollständige Literaturangaben](/literatur.pdf)
+
+[nach oben](#glossar)
+
+### H
+#### Handgeld
+In vielen dynastischen Eheverträgen wurde der Braut ein sog. Handgeld in einer bestimmten Höhe zugesprochen. Dieses Handgeld, das in manchen Quellen auch als Nadelgeld oder Spielgeld bezeichnet wird, stand der fürstlichen Braut zur freien Verfügung. Es diente zur Bestreitung ihrer standesgemäßen Hofhaltung und fiel somit unter den vom Ehemann zu leistenden Unterhalt der Frau während der Ehe. Das Handgeld konnte aus Zinserträgen stammen, die durch die Anlage z. B. der Morgengabe oder Widerlage erzielt wurden.
+
+##### Literatur:
+
+Essegern 2007, S. 64\
+Forster 2010, S. 409-410\
+Ruppel 2006, S. 160\
+Schönpflug 2011, S. 139\
+Walther 2011, S. 143, 199, 211\
+[Vollständige Literaturangaben](/literatur.pdf)
+
+[nach oben](#glossar)
+
+#### Heimfall
+Der Heimfall wird in manchen Verträgen als Synonym für Rückfall bzw. Widerfall gebraucht und umschreibt somit den Vorgang der Rückgabe z. B. von Mitgift, Aussteuer oder Widerlage an die Geberseite nach dem Tod von Bräutigam oder Braut.
+
+##### Literatur:
+
+Brunner 1894, S. 676-735\
+Kluckhohn 1893, S. 40\
+Langer-Ostrawsky 2010, S. 69\
+[Vollständige Literaturangaben](/literatur.pdf)
+
+[nach oben](#glossar)
+
+#### Heiratsgeld
+Heiratsgeld oder auch Ehegeld ist eine in vielen Fällen nicht eindeutig von der Mitgift abzugrenzende Geldleistung bzw. wurde in dynastischen Eheverträgen häufiger als synonym mit Mitgift verwendet. Der Ausdruck bezeichnete monetäre Leistungen, die von der Familie der Braut im Zuge der Eheschließung erbracht wurden und zusammen mit der Widerlage als Witwenversorgung dienen sollte. In dieser Funktion fällt das Heiratsgeld unter die Oberkategorie der Ehegüter.
+
+##### Literatur:
+
+Berndorff 2015, S. 284\
+Guttenberg 1919, S. 65\
+Lanzinger 2019a\
+[Vollständige Literaturangaben](/literatur.pdf)
+
+[nach oben](#glossar)
+
+#### Heiratsgut
+Der Begriff des Heiratsguts wird in dynastischen Eheverträgen der Frühen Neuzeit weitgehend bedeutungsgleich mit Ehegut bzw. Ehegütern gebraucht. Der Begriff kann sich entweder allein auf die von der Brautseite eingebrachten Güter, d. h. Mitgift und Aussteuer, beziehen (vgl. Walther; Zedler) oder auf die Summe der Mitgaben der Brautfamilie und der von der Familie des Bräutigams gestellten Güter wie Widerlage, Morgengabe, Wittum und Leibgedinge.
+
+##### Literatur:
+
+Büttner/Haas 2019, S. 272\
+Walther 2011, S. 122, 129, 228\
+Zedler 1732-1750, Bd. 12, Sp. 1940\
+[Vollständige Literaturangaben](/literatur.pdf)
+
+[nach oben](#glossar)
+
+### L
+#### Leibgedinge
+Als Leibgedinge bezeichnen Büttner/Haas die Witweneinkünfte, d. h. alle monetären oder materiellen Einkünfte, die die Witwe auf den Wittumsgütern erwirtschaftete, die ihr im Regelfall durch den Ehevertrag zugesprochen wurden. In Eheverträgen werden als Leibgedinge jedoch oft auch die als Wittum zugewiesenen Güter und Gebiete selbst bezeichnet. Dem entspricht die Darstellung in Zedlers Universal-Lexicon, wonach „Dotalium oder Dotarium, das Leibgut, Leibgeding, Leib-Zucht, Witthum, Hauben-Band, […] nichts anders“ sei, „als eine Verehrung sie bestehe in Lehen oder Eigenthum, welche der Mann oder seine Erben, der Frauen zur Vergeltung ihres Heurat-Guts verordnen, daß sie nach des Mannes Tod, so lange sie lebet, genüsset.“ Zedler betont, einen gewohnheitsrechtlichen Ursprung des Leibgedinges, sein anfängliches Aufkommen im Adel und seine zentrale Bedeutung für die Versorgung adeliger Witwen. Aufgrund dieser Funktion war die Regelung des Leibgedinges bzw. Wittums ein wesentlicher Aspekt dynastischer Eheverhandlungen und Eheverträge. Es kam jedoch auch vor, dass das Leibgedinge erst im Laufe der Ehe oder bei Eintreten des Witwenfalls festgelegt wurde.
+
+##### Literatur:
+
+Büttner/Haas 2019, S. 272\
+Ehmer 2019\
+Essegern 2007, S. 415-416\
+Essegern 2003, S. 116\
+Zedler 1732-1750, Bd. 7, Sp. 1353-1354\
+[Vollständige Literaturangaben](/literatur.pdf)
+
+[nach oben](#glossar)
+
+#### Leibrente
+Als Leibrente wird rechtsgeschichtlich eine Rente, d. h. eine finanzielle Zuwendung, bezeichnet, die einer Person auf Lebensdauer zugesprochen wird. Leibrentenverträge kommen historisch in ganz unterschiedlichen gesellschaftlichen und rechtlichen Zusammenhängen vor und dienten stets zu Vorsorgezwecken. Im Kontext dynastischer Eheverträge werden Leibrenten im Regelfall als Bestandteil des Unterhalts der Braut während der Ehe oder der Witwenversorgung erwähnt.
+
+##### Literatur:
+
+Ogris 2016\
+Signori 2016\
+Walther 2011, S. 122-123\
+[Vollständige Literaturangaben](/literatur.pdf)
+
+[nach oben](#glossar)
+
+#### Leibzucht
+Laut dem Handwörterbuch zur deutschen Rechtsgeschichte bezeichnet der Begriff der Leibzucht nach allgemeinem Verständnis ein „dingliches Nutzungsrecht an fremder Sache“. Die Leibzucht war sowohl im Rechtsverständnis des deutschsprachigen Raums als auch im englischen Common Law (hier als life estate) ein typischer Bestandteil der vormodernen Rechtskultur und des ehelichen Güterrechts (vgl. Brauneder). Wenn der Begriff im Rahmen dynastischer Eheverträge der Frühen Neuzeit Verwendung findet, sind zumeist Nutzungsrechte der Braut an den Gütern, die ihr vom Bräutigam oder seiner Familie vertraglich zugesichert wurden. Allerdings konnten mit der Leibzucht auch die Güter selbst gemeint sein, deren Erträge und Einkünfte der Ehefrau einen standesgemäßen Lebensunterhalt ermöglichen sollten. Die Leibzucht ist in unmittelbarem Zusammenhang mit dem Leibgedinge und Wittum zu betrachten. Auch in der wissenschaftlichen ##### Literatur wird die Leibzucht häufig synonym mit den Gütern verwendet, die der Braut als Versorgungszuwendung verschrieben wurden.
+
+##### Literatur:
+
+Bastl 2000, S. 77\
+Bepler 2003, S. 206\
+Brauneder 2016a\
+Ehmer 2019\
+Streich 2003, S. 176, 183\
+[Vollständige Literaturangaben](/literatur.pdf)
+
+[nach oben](#glossar)
+
+### M
+#### Mitgift
+Eine Eheschließung bedeutet in der Frühen Neuzeit den güterrechtlichen Übergang der Braut in die Familie des Ehemanns, die damit für ihre zukünftige Versorgung verantwortlich wurde. Die finanzielle und materielle Grundlage dafür legten aber beide Familien gemeinsam, nämlich durch die Ausstattung des Brautpaars mit verschiedenen Ehegütern. Als einmalige Gabe der Brautseite wurde dazu üblicherweise eine Mitgift in die Ehe eingebracht. Als Mitgift wird eine von der Brautfamilie im Rahmen der Eheschließung zu entrichtende Vermögenszuwendung bezeichnet. Zedler verweist unter dem Lemma „Mitgifft“ auf die im deutschen Sprachraum und in der Rechtstheorie der Frühen Neuzeit offensichtlich gängigeren Begriffe „Heuraths-Guth“ und „Dos“. Den entsprechenden Einträgen im Universal-Lexicon zufolge bezeichnen diese Begriffe eine monetäre Zuwendung oder Sachleistung in Form von Immobilien, die der Braut im Zuge der Eheschließung von ihrer Familie mitgegeben wird und dem Ehemann oder dessen Vater zufällt. Sollte die Ehefrau versterben, ohne dass Kinder aus der Ehe vorhanden wären, sei ein Rechtsanspruch ihrer Familie bzw. nächsten Erben auf Rückgabe von Mitgift bzw. Heiratsgut gegeben (vgl. Rückfall). In dynastischen Eheverträgen der Frühen Neuzeit kommt die Mitgift oder das Heiratsgut in der Regel als umfangreiche Geldleistung vor; manche Verträge sprechen auch von einem Ehe- oder Heiratsgeld. Die standesabhängige Höhe dieser Geldsumme wurde vor der Eheschließung ausgehandelt und im Ehevertrag festgehalten. Die Familie des Bräutigams wog die Mitgift im Regelfall durch eine Widerlage in gleicher Höhe auf. Wie Pieper anmerkt, „scheiterten gelegentlich prestigeträchtige Eheprojekte am Unvermögen der Mannesseite, eine hohe Mitgift entsprechend aufzuwiegen“. Umgekehrt konnte fehlende Finanzkraft adeliger Familien genauso dafür sorgen, dass heiratsfähige Töchter unverheiratet blieben, weil keine standesgemäße Mitgift aufgebracht werden konnte. Nach ihrer Auszahlung sollte die vertraglich vereinbarte Mitgift zusammen mit der Widerlage ertragreich auf den Gütern des Ehemanns angelegt werden, um jährliche Einkünfte zu generieren und die Witwenversorgung abzusichern. Auch dies wurde in dynastischen Eheverträgen detailliert geregelt. Besonders im Adel wurde die Mitgift außerdem eng mit dem Familienerbrecht verknüpft und hatte den Status einer vorweggenommenen Erbschaft. Aus diesem Grund wurde bei dynastischen Ehen im Gegenzug für die Mitgift häufig ein ausdrücklicher Erbverzicht der Braut vereinbart und in den Ehevertrag aufgenommen. Geregelt wurden oft auch Ausnahmen, z. B. für den Fall, dass die Dynastie der Braut in männlicher Linie ausstarb. Dynastischen Eheverträge regelten für gewöhnlich auch den Rückfall der Mitgift sowie der anderen eingebrachten Ehegüter.
+
+##### Literatur:
+
+Bastl 2000, S. 50-53\
+Brauneder 2016b\
+Büttner/Haas 2019, 270-271\
+Lanzinger 2019a\
+Pieper 2019, S. 256, 357\
+Spieß 2003, S. 99\
+Walther 2011, S. 68, 72\
+Zedler 1732-1750, Bd. 7, Sp. 1342-1343\
+Zedler 1732-1750, Bd. 12, Sp. 1940-1956\
+Zedler 1732-1750, Bd. 21, Sp. 538\
+[Vollständige Literaturangaben](/literatur.pdf)
+
+[nach oben](#glossar)
+
+#### Morgengabe
+Als Morgengabe (im Lateinischen u. a. auch donatio propter nuptias, in Zedler Bd. 7 außerdem unter „Donatio Morgengabae“) wird seit dem Mittelalter eine Leistung des ehelichen Güterrechts bezeichnet. Es handelt sich um eine Gabe oder Schenkung des Bräutigams an die Braut, deren Übergabe am Morgen nach dem Beilager erfolgen sollte und somit an den Vollzug der Ehe geknüpft war. Für die Vertragspraxis der Frühen Neuzeit sind auch symbolische Bezugnahmen auf den Zusammenhang zwischen der Morgengabe und der jungfräulichen Ehre der Braut belegt. Art und Umfang der Morgengabe waren regulärer Gegenstand ehevertraglicher Regelungen zwischen Fürstenhäusern. Die im Ehevertrag vereinbarte Morgengabe konnte verschiedene Formen annehmen: Geldleistungen waren ebenso möglich wie Sachleistungen in Form von Schmuck. Wie Schönpflug bemerkt, sollte sie im Wert ungefähr der Aussteuer entsprechen. Zusammen mit anderen ehegüterrechtlichen Leistungen (z. B. Widerlage, Leibgedinge oder Wittum) hatte auch die Morgengabe die Funktion, in die Versorgung der Ehefrau nach dem Tod des Ehemanns einzufließen. Wie andere Leistungen an die Braut konnte sie zinsbringend angelegt werden, sodass sie jährliche Einkünfte erbrachte. Besitzrechtlich blieb sie dem Zugriff des Ehemanns entzogen. Morgengabe, Widerlage und Leibgedinge sind in mittelalterlichen und frühneuzeitlichen Rechtstexten nicht immer trennscharf voneinander abzugrenzen. In der Frühen Neuzeit setzte eine stärkere Differenzierung der verschiedenen Begriffe und Leistungen ein. Brauneder und Wettlaufer legen allerdings nahe, dass die Widerlage die Morgengabe schon im Verlauf des Mittelalters als zentrale Hochzeitsgabe des Bräutigams an die Braut mit dem Ziel der Witwenversorgung funktional abgelöst hat. Bei manchen Eheverträgen zwischen deutschen und französischen Fürstenhäusern findet sich der der Ausdruck „Morgengab“ auch in französischsprachigen Vertragstexten (vgl. z. B. die Eheverträge zwischen Frankreich und Baden-Baden 1724 sowie Frankreich und Hessen-Rheinfels-Rotenburg 1728). Offenbar gab es keinen direkt entsprechenden französischen Begriff, den man anstelle des deutschen Wortes hätte verwenden können.
+
+##### Literatur:
+
+Brauneder 2016c, Sp. 1629-1633\
+Brauneder 1973, S. 127-128\
+Essegern 2003, S. 119, 122\
+Schönpflug 2013, S. 108\
+Walther 2011, S. 72, 129\
+Wettlaufer 1999, S. 89-90\
+Van Dülmen 2005, S. 156\
+Zedler 1732-1750, Bd. 7, Sp. 1251\
+Zedler 1732-1750, Bd. 21, Sp. 1639-1641\
+[Vollständige Literaturangaben](/literatur.pdf)
+
+[nach oben](#glossar)
+
+### P
+#### Primogenitur
+Die Primogenitur bezeichnet die ungeteilte Thronfolge des ältesten Sohnes eines Herrschers oder einer Herrscherin. In der Neuzeit wurde diese Form der Vererbung vorherrschend, während im Mittelalter die Territorien häufiger auf die Söhne aufgeteilt wurden. In der Forschung ist die Einführung des alleinigen Erbrechts des Erstgeborenen als ein entscheidender Schritt in Richtung frühneuzeitlicher Staatsbildung ausgemacht worden. Neuere Untersuchungen zu einzelnen Dynastien zeigen aber, dass die Etablierung der Primogenitur mitunter auch könfliktfördernd und somit destabilisierend auf die Herrscherhäuser wirkte.
+
+##### Literatur:
+
+Brauneder 2021\
+Schilling 2019\
+Westphal 2016, S. 53\
+[Vollständige Literaturangaben](/literatur.pdf)
+
+[nach oben](#glossar)
+
+#### Prokurator
+Als Prokurator wird in Anknüpfung an das Römische Recht der bevollmächtigte Vertreter einer Partei in einem gerichtlichen Verfahren oder beim Vollzug eines Rechtsakts bezeichnet. Im Kontext dynastischer Eheverträge der Frühen Neuzeit erhält der Begriff eine spezielle Bedeutung. So war es bei Eheschließungen zwischen Fürstenhäusern üblich, dass die Ehe vor der Überführung der Braut von ihrem elterlichen Hof an den Hof des Bräutigams oder seiner Familie – und somit auch im Vorfeld der offiziellen Hochzeit – in einem zeremoniellen Akt durch Prokuration (lat. per procura) geschlossen wurde. Dieses Vorgehen wurde in vielen dynastischen Eheverträgen vereinbart und bekundet. Eine Eheschließung per procura bzw. mittels eines Prokurators bedeutete, dass ein Vertreter des Bräutigams, in der Regel ein Mitglied seines Hofes, bei der rechtlich bindenden Eheschließung als Stellvertreter des abwesenden künftigen Ehemanns fungierte.
+
+##### Literatur:
+
+Becker 2015, S. 196\
+Büttner/Haas 2019, S. 279\
+Neschwara 2019\
+Picard 1967, S. 128\
+Schönpflug 2013, S. 216-217\
+Sellert 1984\
+Taddei 2018, S. 59\
+[Vollständige Literaturangaben](/literatur.pdf)
+
+[nach oben](#glossar)
+
+### R
+#### Regalien
+Manche Eheverträge in der Datenbank erwähnen die Übertragung von Regalien im Zuge der Widerlegung des von der Braut eingebrachten Eheguts. Mit Regalien (im Singular Regal) werden im weitesten Sinne alle herrscherlichen Hoheitsrechte bezeichnet. Ein Fürst konnte seine Vasallen mit den Regalien, die er besaß, belehnen, sodass sie diese Rechte anstelle des Fürsten selbst ausüben konnten. Häufig waren Regalien mit der Möglichkeit finanzieller Einkünfte verknüpft. Es kam daher auch vor, dass die Familie des Bräutigams im Ehevertrag festlegte, dass die Ausübung bestimmter landesherrlicher Regalien auf den Witwengütern dem Ehemann und seinen Erben vorbehalten bleiben sollten.
+
+##### Literatur:
+
+Essegern 2007, S. 28-29\
+Wegener 1990\
+[Vollständige Literaturangaben](/literatur.pdf)
+
+[nach oben](#glossar)
+
+#### Rückfall
+Mit dem Begriff Rückfall (vgl. auch Widerfall) wird in dynastischen Eheverträgen der Frühen Neuzeit respektive den Vertragsregesten der Datenbank die Rückübertragung von monetären Vermögenswerten sowie mobilen oder immobilen Gütern an die Geberseite bezeichnet. Der Rückfall von Besitz, Vermögen und Gütern, die im Zuge der Eheschließung als Heirats– bzw. Ehegut mitgegeben oder als Wittum gewährt wurden, war ein üblicher Bestandteil vieler Eheverträge und wurde oftmals sorgfältig geregelt. Regelungen bezüglich des Rückfalls von Ehegütern lagen in unmittelbarer Nähe zu den erbrechtlichen Regelungen dynastischer Eheverträge. Tradierte Formen eines solchen Regelungen wohl zugrunde liegenden Rückfallrechts, oder im Französischen droit de retour, lassen sich sowohl im römischen als auch germanischen Recht finden. Als Empfänger des rückfälligen Vermögens oder Besitzes wurden in den Verträgen üblicherweise der Brautvater, der Vater des Bräutigams und ihre jeweiligen Erben genannt. Oft wurden aber zunächst dem überlebenden Ehepartner lebenslange Nutzungsrechte an Mitgift oder Widerlage zugesprochen, sodass der Rückfall tatsächlich erst nach dessen Tod eintrat.
+
+##### Literatur:
+
+Brunner 1894, S. 676-735\
+Kluckhohn 1893, S. 40\
+Langer-Ostrawsky 2010, S. 69\
+[Vollständige Literaturangaben](/literatur.pdf)
+
+[nach oben](#glossar)
+
+### U
+#### Überführung
+Als Überführung, Heimführung der Braut oder Brautzug wird die Reise der Braut von ihrem Heimathof, wo bevorzugt auch die Heiratsverhandlungen stattfanden, an den Hof des Bräutigams bzw. seiner Familie bezeichnet. Die Überführung der Braut zu regeln, war ein üblicher Aspekt dynastischer Heiratsverhandlungen bzw. Eheverträge. Bisweilen wurden bereits Reiserouten und (sofern der Bräutigam nicht persönlich an den Hof der Brauteltern reiste, um die Ehe zu schließen und die Braut und feierlich heimzuführen) Übergabepunkte vereinbart, an denen die Braut und ihr Gefolge vom Bräutigam in Empfang genommen werden sollten. Falls die Reise der Braut durch Territorien unbeteiligter Fürstenhäuser führte, galt es außerdem, diese in Kenntnis zu setzen. In manchen Fällen wurde sogar ein erheblicher baulicher Aufwand betrieben, um Wege und Straßen der Reisestrecke in einen für die Überführung der fürstlichen Braut angemessenen Zustand zu bringen. Riskant konnte die Überführung v. a. im Kriegsfall werden, weshalb der Ehevertrag zwischen Spanien und Kurpfalz aus dem Jahr 1689 wegen des Pfälzischen Erbfolgekrieges (1688–1697) mit Frankreich den Verzicht auf eine feierliche Überführung regelte. Stattdessen sollte die Braut, Maria Anna von Pfalz-Neuburg, unerkannt nach Spanien reisen.
+
+##### Literatur:
+
+Büttner/Haas 2019, S. 271, 279-280, 283\
+Gepp/Lenk 2018, S. 180-181\
+Schönpflug 2013, S. 216-217\
+Walther 2011, S. 209\
+[Vollständige Literaturangaben](/literatur.pdf)
+
+[nach oben](#glossar)
+
+### V
+#### Verschreibung
+Zedler versteht unter „Verschreibung“ bzw. „Heuraths-Verschreibungen“ schriftliche Zusicherungen die „von denen Verlobten aufgerichtet worden, wie es mit dem Heurath-Gut, und dem Gegen-Vermächtniß, oder Leib-Geding, wie auch der zukünfftigen Succession halben gehalten werden solle“. Als Verschreibungen werden dementsprechend in frühneuzeitlichen dynastischen Eheverträgen formelle (schriftliche) Zuweisungen und Zusicherungen von Gütern, Rechten, Renten, Zinsen o. Ä. im Rahmen des Vertrags bzw. dessen ehegüterrechtlicher Regelungen bezeichnet. In Kursachsen setzte sich im 16. Jahrhundert die Praxis durch, dass in Ergänzung zum eigentlichen Ehevertrag separate Zusatzverträge, sog. Morgengabe– oder Wittumsverschreibungen, aufgesetzt wurden. Solche separaten Verschreibungsbriefe sind auch im Zusammenhang mit kurbrandenburgischen Eheverträgen überliefert (etwa im Bestand I. HA Rep. 78, Nr. 24 des Geheimen Staatsarchivs Preußischer Kulturbesitz).
+
+##### Literatur:
+
+Essegern 2007, S. 27\
+Jilge 2016, S. 54-55\
+Zedler 1732-1750, Bd. 12, Sp. 1956\
+Zedler 1732-1750, Bd. 47, Sp. 1724-1725\
+[Vollständige Literaturangaben](/literatur.pdf)
+
+[nach oben](#glossar)
+
+### W
+#### Widerfall
+Der Widerfall ist in dynastischen Eheverträgen und den Regesten der Datenbank weitgehend bedeutungsgleich mit dem Rückfall. Laut Zedler handelt es sich beim Widerfall um „ein Gut, welches jemanden mit einem gewissen Bedinge abgetreten wird; und wenn der Fall geschiehet, an seinen vorigen Herrn wieder zurück fällt, als da sind Leibgeding, Apanage, Lehn-Gut, Fideicommiß, u. d. g.“ Mit der Erwähnung des Leibgedinges ist die Funktion des Widerfalls im ehelichen Güterrecht angesprochen.
+
+##### Literatur:
+
+Guttenberg 1919, S. 66\
+Zedler, Bd. 55, Sp. 2003.\
+[Vollständige Literaturangaben](/literatur.pdf)
+
+[nach oben](#glossar)
+
+#### Widerlage
+Bei der Widerlage – auch als Widerlegung, Widerleggeld, Gegengabe, Gegenvermächtnis oder contrados bezeichnet – handelte es sich um eine im frühneuzeitlichen Heiratsgabensystem gebräuchliche Leistung seitens des Bräutigams oder dessen Familie an die Braut. Die Wiederlage wurde häufig als Geldleistung entrichtet; sie konnte aber z. B. auch durch die Überreichung von Schmuck und Juwelen im Gegenwert zur Mitgift geleistet werden. Dies wurde beispielsweise in den Eheverträgen zwischen Spanien und Frankreich 1721 sowie zwischen Frankreich und Baden-Baden 1724 festgelegt. Grundsätzlich konnten Mitgift und Widerlage auch in Form von Territorialschenkungen oder Naturalleistungen vorkommen. Laut Zedlers Universal-Lexicon (18. Jh.) sei eine Gleichheit zwischen Mitgift und Widerlage rechtlich geboten, werde in der Praxis aber nicht immer eingehalten. Die Gewährung der Widerlage per se war Zedler zufolge jedoch nicht rechtsverbindlich. In dynastischen Eheverträgen der Frühen Neuzeit war es gleichwohl die Regel, dass die Zahlung einer Widerlage vereinbart und ihr Wert in genauer Entsprechung zur Mitgiftsumme festgesetzt wurde. Ausnahmen wurden mitunter dann geltend gemacht, wenn deutliche Rangunterschiede bestanden (vgl. etwa Büttner/Haas). Sehr hoch angesetzte Mitgiftsummen, die entsprechend hohe Widerlagen erforderten, konnten für weniger finanzkräftige Adelshäuser somit in der Praxis zum Heiratshindernis werden oder zu erheblichen Kontroversen in den Heiratsverhandlungen führen. Die Funktion der Widerlage bestand darin, die von der Braut bzw. Brautfamilie gestellte Mitgift zu ergänzen und das Heiratsgut in seiner Gesamtheit zu vermehren und langfristig zur Versorgung der Ehefrau im Fall ihrer Verwitwung beizusteuern. Zu diesem Zweck wurde die Wiederlage mit der Mitgift zusammen auf den Gütern des Ehemanns angelegt, um Zinserträge zu generieren. Auch dies wurde in dynastischen Eheverträgen normalerweise geregelt. Für den Fall des vorzeitigen Todes des Ehemanns regelten die Eheverträge gewöhnlich die die Nutzung der Widerlage zum Zweck der Witwenversorgung, sofern aus der Ehe keine Kinder hervorgegangen waren, die zu dem Zeitpunkt noch lebten und daher eventuell einen vorrangigen Anspruch auf die Widerlage gehabt hätten. Verstarb auch die Witwe, wurde meist der Rückfall der Widerlage an die Familie des Ehemanns vereinbar.
+
+##### Literatur:
+
+Brauneder 1998, Sp. 1347-1348\
+Büttner/Haas 2019, 274-275\
+Essegern 2003, S. 133\
+Lanzinger 2019a\
+Schnettger 2016, S. 121\
+Schödl 2007, S. 85, 136-137\
+Spieß 2003, S. 96-97\
+Walther 2011, S. 68, 82\
+Zedler 1732-1750, Bd. 55, Sp. 2155-2157\
+[Vollständige Literaturangaben](/literatur.pdf)
+
+[nach oben](#glossar)
+
+#### Wittum
+Das Wittum stellte eine Vermögensleistung dar, die im Zuge einer Eheschließung vom Bräutigam oder seiner Familie zu erbringen war und die Versorgung der Braut im Witwenstand absichern sollte. Das germanische Recht kannte ursprünglich zwei Typen des Wittums: So konnte das Wittum „als Brautgabe an den bisherigen Gewalthaber über die Frau“, in der Regel den Brautvater, übergeben werden oder an die Braut selbst (Schulze). In dynastischen Eheverträgen der Frühen Neuzeit findet sich der zweite Typ, welcher sich seit dem 8. Jh. mit kirchlicher Unterstützung als vorherrschend durchsetzte und die wirtschaftliche wie rechtliche Stellung von Witwen deutlich stärkte. Allerdings kam es in Eheverträgen zwischen Fürstenhäusern durchaus vor, dass der Brautfamilie für die Zeit nach dem Tod der Braut ein Verfügungsrecht über deren Wittum eingeräumt wurde, bis die Rückzahlung der Mitgift und ggf. Rückerstattung der Aussteuer durch den Ehemann oder dessen Erben erfolgte. Das Wittum diente als Grundlage der Witwenversorgung, in der Regel war es daher Gegenstand detaillierter ehevertraglicher Regelungen. Dabei ging es nicht allein um die Zuweisung der Wittumsgüter, sondern auch um erbrechtliche Fragen und nicht selten um Vorkehrungen für den Fall einer Widerverheiratung der Witwe. Beinhaltete ein Ehevertag keine entsprechenden Regelungen war eine separate Wittumsverschreibung üblich. Das Wittum setzte sich häufig aus sog. Fahrnis bzw. Fahrhabe, d. h. beweglichen Gütern wie Hausrat, Vieh u. Ä., und Liegenschaften zusammen. In dynastischen Eheverträgen lag der Fokus hauptsächlich auf den immobilen Witwengütern, den zugehörigen Rechten (vgl. auch Regalien) und den Einkünften, die sich aus ihrer Bewirtschaftung erzielen ließen. Regelmäßige Gegenstände der Wittumsvereinbarungen in Eheverträgen waren auch die standesgemäße Einrichtung und die Instandhaltung des Witwensitzes als Wohnort und Unterkunft der adeligen Witwe. Die Verwaltung des Wittums, d. h. die Ausübung von Administrationsrechten und Jurisdiktion auf den Witwengütern gehörte zu den wesentlichen „Formen legitimer Herrschaftsausübung adeliger Frauen“ (Carius). Die faktische Gewährleistung einer standesgemäßen Witwenversorgung entschied in erheblichem Maß über die Handlungsspielräume adeliger Witwen. Die Konventionen des europäischen Hochadels sahen allgemein zwar vor, dass Witwen sich nach dem Tod des Ehemanns auf ihr Wittum zurückzogen, dies war jedoch keineswegs zwingend der Fall. Mitunter blieben die Witwen in die höfische Repräsentation oder Erziehungsaufgaben eingebunden, manchmal waren sie sogar weiterhin an der landesherrlichen Regierung beteiligt, obwohl volljährige männliche Erben des verstorbenen Fürsten vorhanden waren.
+
+##### Literatur:
+
+Braun 2018, S. 26-37\
+Carius 2015, S. 203\
+Essegern 2007, S. 231-232\
+Hufschmidt 2003, S. 357\
+Pieper 2019, S. 257\
+Puppel 2004, S. 136-137\
+Schönpflug 2013, S. 108-109\
+Schulze 1998\
+Spieß 2003, S. 105-106\
+[Vollständige Literaturangaben](/literatur.pdf)
+
+[nach oben](#glossar)
+
+Impressum
+ 
+Datenschutz
+ 
+Kontakt
+</p>
+</div>

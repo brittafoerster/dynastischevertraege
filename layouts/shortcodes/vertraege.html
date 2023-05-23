@@ -1,0 +1,153 @@
+ {{ range .Site.Data }}
+  <details>
+ <summary>{{  .Dokument.main.Name  }}</summary><details>
+ <summary>{{  .Dokument.Name  }}</summary>
+ <p>{{ .Dokument.Braut}}</p>  </details></details>
+ {{end}}
+
+
+{{ range .Site.Data }}
+  <details>
+ <summary>{{  .Dokument.main.Name  }}</summary><details>
+ <summary>{{"Grunddaten Ehevertrag"}}</summary>
+  <p>{{index .Dokument "Grunddaten Ehevertrag" }}</p>  
+ </details></details>
+ {{end}}
+
+
+{{ index .Site.Data.vertrag7.Dokument "Akteur Braut" "Akteur Braut Name, Titel"}}
+
+
+{{ range .Site.Data }}
+  <details>
+ <summary>{{  .Dokument.main.Name  }}</summary><details>
+ <summary>{{"Grunddaten"}}</summary>
+  <p>{{index .Dokument "main" }}</p> 
+ </details></details>
+ {{end}}
+ 
+ <div style="text-align: left;">
+{{ range .Site.Data }}
+  <details> <summary>{{  .Dokument.main.Name  }}</summary><div style="text-indent:30px;">
+ <details> <summary>{{"Grunddaten"}}</summary> 
+     <p>{{"Vertragspartner Bräutigam: "}}{{index .Dokument "Grunddaten Ehevertrag" "Vertragspartner Br\u00e4utigam"}}</p> 
+     <p>{{"Vertagspartner Braut: "}}{{index .Dokument "Grunddaten Ehevertrag" "Vertragspartner Braut"}} </p>     
+     <p>{{"Datum Vertragsschließung: "}}{{index .Dokument "Grunddaten Ehevertrag" "Datum Vertragsschlie\u00dfung"}}</p> 
+     <p>{{"Ort Vertragsschließung: "}}{{index .Dokument "Grunddaten Ehevertrag" "Ort Vertragsschlie\u00dfung"}}</p>   
+     <p>{{"Eheschließung vollzogen?: "}}{{index .Dokument "Grunddaten Ehevertrag" "Eheschlie\u00dfung vollzogen?"}}</p> 
+     <p>{{"verschiedenkofessionelle Ehe?: "}}{{index .Dokument "Grunddaten Ehevertrag" "verschiedenkonfessionelle Ehe?"}}</p>   
+ </details>
+ <details> <summary>{{"Bräutigam"}}</summary>
+     <p>{{"Bräutigam: "}}{{index .Dokument "Br\u00e4utigam" "Br\u00e4utigam Name, Titel"}}</p> 
+     <p>{{"Bräutigam GND: "}}{{index .Dokument "Br\u00e4utigam" "Br\u00e4utigam GND"}}</p>      
+     <p>{{"Geburtsjahr: "}}{{index .Dokument "Br\u00e4utigam" "Br\u00e4utigam Geburtsjahr"}}</p> 
+     <p>{{"Sterbejahr: "}}{{index .Dokument "Br\u00e4utigam" "Br\u00e4utigam Sterbejahr"}}</p>   
+     <p>{{"Dynastie: "}}{{index .Dokument "Br\u00e4utigam" "Br\u00e4utigam Dynastie"}}</p> 
+     <p>{{"Konfession: "}}{{index .Dokument "Br\u00e4utigam" "Br\u00e4utigam Konfession"}}</p>   
+ </details>
+ <details> <summary>{{"Braut"}}</summary>
+    <p>{{"Braut: "}}{{index .Dokument "Braut" "Braut Name, Titel"}}</p> 
+     <p>{{"Braut GND: "}}{{index .Dokument "Braut" "Braut GND"}}</p>      
+     <p>{{"Geburtsjahr: "}}{{index .Dokument "Braut" "Braut Geburtsjahr"}}</p> 
+     <p>{{"Sterbejahr: "}}{{index .Dokument "Braut" "Braut Sterbejahr"}}</p>   
+     <p>{{"Dynastie: "}}{{index .Dokument "Braut" "Braut Dynastie"}}</p> 
+     <p>{{"Konfession: "}}{{index .Dokument "Braut" "Braut Konfession"}}</p> 
+ </details>
+ <details> <summary>{{"Akteur Bräutigam"}}</summary><
+    <p>{{"Akteur Bräutigam: "}}{{index .Dokument "Akteur Br\u00e4utigam" "Akteur Br\u00e4utigam Name, Titel"}}</p> 
+     <p>{{"Akteur Bräutigam GND: "}}{{index .Dokument "Akteur Br\u00e4utigam" "Akteur Br\u00e4utigam GND"}}</p>      
+     <p>{{"Akteur Bräutigam Dynastie: "}}{{index .Dokument "Akteur Br\u00e4utigam" "Akteur Br\u00e4utigam Dynastie"}}</p> 
+     <p>{{"Verhältnis zu Bräutigam: "}}{{index .Dokument "Akteur Br\u00e4utigam" "Akteur Br\u00e4utigam Verh\u00e4ltnis zu Br\u00e4utigam"}}</p>  
+ </details>
+  <details> <summary>{{"Akteur Braut"}}</summary>
+<p>{{"Akteur Braut: "}}{{index .Dokument "Akteur Braut" "Akteur Braut Name, Titel"}}</p> 
+     <p>{{"Akteur Braut GND: "}}{{index .Dokument "Akteur Braut" "Akteur Braut GND"}}</p>      
+     <p>{{"Akteur Braut Dynastie: "}}{{index .Dokument "Akteur Braut" "Akteur Braut Dynastie"}}</p> 
+     <p>{{"Verhältnis zu Braut: "}}{{index .Dokument "Akteur Braut" "Akteur Braut Verh\u00e4ltnis zu Braut"}}</p>  
+ </details>
+  <details> <summary>{{"Vertragstext"}}</summary>
+     <p>{{"Archivexemplar: "}}{{index .Dokument "Vertragstext" "Archivexemplar"}}</p> 
+     <p>{{"Vertragssprache: "}}{{index .Dokument "Vertragstext" "Vertragssprache Archivexemplar"}}</p>      
+     <p>{{"Digitalsat Archivexemplar: "}}{{index .Dokument "Vertragstext" "Digitalisat Archivexemplar"}}</p> 
+     <p>{{"Drucknachweis: "}}{{index .Dokument "Vertragstext" "Drucknachweis"}}</p>   
+     <p>{{"Vertragssprache: "}}{{index .Dokument "Vertragstext" "Vertragssprache Druck"}}</p> 
+     <p>{{"Digitalsat Druck: "}}{{index .Dokument "Vertragstext" "Digitalisat Druck"}}</p> 
+     <p>{{"Vertragsinhalt: "}}{{index .Dokument "Vertragstext" "Vertragsinhalt"}}</p>  
+ </details>
+  <details> <summary>{{"Einordnung"}}</summary>
+     <p>{{"Textbezug zu vergangenen Ereignissen?: "}}{{index .Dokument "Einordnung des Vertrags" "Textbezug zu vergangenen Ereignissen?"}}</p> 
+     <p>{{"ständische Instanzen beteiligt?: "}}{{index .Dokument "Einordnung des Vertrags" "st\u00e4ndische Instanzen beteiligt?"}}</p>  
+          <p>{{"externe Instanzen beteiligt?: "}}{{index .Dokument "Einordnung des Vertrags" "externe Instanzen beteiligt?"}}</p> 
+     <p>{{"Ratifikation erwähnt?: "}}{{index .Dokument "Einordnung des Vertrags" "Ratifikationen, Best\u00e4tigungen, Genehmigungen erw\u00e4hnt?"}}</p>   
+     <p>{{"weitere Verträge: "}}{{index .Dokument "Einordnung des Vertrags" "weitere Vertr\u00e4ge zwischen Vertragsparteien im Zusammenhang mit dieser Ehe"}}</p> 
+     <p>{{"Schlagwörter: "}}{{index .Dokument "Einordnung des Vertrags" "Schlagw\u00f6rter"}}</p> 
+     <p>{{"Kommentar: "}}{{index .Dokument "Einordnung des Vertrags" "Kommentar"}}</p> 
+ </details> </div>
+ </details>
+ {{end}}
+</div>
+
+
+
+
+
+<div style="text-align:left">
+{{ range .Site.Data }}
+  <details> <summary>{{  .Dokument.main.Name  }}</summary><div style="text-indent:30px" >
+ <details> <summary>{{"Grunddaten"}}</summary> <div style="text-indent:70px" >
+     <p style="padding:0px;margin:0px">{{"Vertragspartner Bräutigam: "}}{{index .Dokument "Grunddaten Ehevertrag" "Vertragspartner Br\u00e4utigam"}}</p> 
+     <p style="padding:0px;margin:0px">{{"Vertagspartner Braut: "}}{{index .Dokument "Grunddaten Ehevertrag" "Vertragspartner Braut"}} </p>     
+     <p style="padding:0px;margin:0px">{{"Datum Vertragsschließung: "}}{{index .Dokument "Grunddaten Ehevertrag" "Datum Vertragsschlie\u00dfung"}}</p> 
+     <p style="padding:0px;margin:0px">{{"Ort Vertragsschließung: "}}{{index .Dokument "Grunddaten Ehevertrag" "Ort Vertragsschlie\u00dfung"}}</p>   
+     <p style="padding:0px;margin:0px">{{"Eheschließung vollzogen?: "}}{{index .Dokument "Grunddaten Ehevertrag" "Eheschlie\u00dfung vollzogen?"}}</p> 
+     <p style="padding:0px;margin:0px">{{"verschiedenkofessionelle Ehe?: "}}{{index .Dokument "Grunddaten Ehevertrag" "verschiedenkonfessionelle Ehe?"}}</p>   </div>
+ </details>
+ <details> <summary>{{"Bräutigam"}}</summary> <div style="text-indent:70px" >
+     <p style="padding:0px;margin:0px">{{"Bräutigam: "}}{{index .Dokument "Br\u00e4utigam" "Br\u00e4utigam Name, Titel"}}</p> 
+     <p style="padding:0px;margin:0px">{{"Bräutigam GND: "}}{{index .Dokument "Br\u00e4utigam" "Br\u00e4utigam GND"}}</p>      
+     <p style="padding:0px;margin:0px">{{"Geburtsjahr: "}}{{index .Dokument "Br\u00e4utigam" "Br\u00e4utigam Geburtsjahr"}}</p> 
+     <p style="padding:0px;margin:0px">{{"Sterbejahr: "}}{{index .Dokument "Br\u00e4utigam" "Br\u00e4utigam Sterbejahr"}}</p>   
+     <p style="padding:0px;margin:0px">{{"Dynastie: "}}{{index .Dokument "Br\u00e4utigam" "Br\u00e4utigam Dynastie"}}</p> 
+     <p style="padding:0px;margin:0px">{{"Konfession: "}}{{index .Dokument "Br\u00e4utigam" "Br\u00e4utigam Konfession"}}</p>   </div>
+ </details>
+ <details> <summary>{{"Braut"}}</summary><div style="text-indent:70px" >
+     <p style="padding:0px;margin:0px">{{"Braut: "}}{{index .Dokument "Braut" "Braut Name, Titel"}}</p> 
+     <p style="padding:0px;margin:0px">{{"Braut GND: "}}{{index .Dokument "Braut" "Braut GND"}}</p>      
+     <p style="padding:0px;margin:0px">{{"Geburtsjahr: "}}{{index .Dokument "Braut" "Braut Geburtsjahr"}}</p> 
+     <p style="padding:0px;margin:0px">{{"Sterbejahr: "}}{{index .Dokument "Braut" "Braut Sterbejahr"}}</p>   
+     <p style="padding:0px;margin:0px">{{"Dynastie: "}}{{index .Dokument "Braut" "Braut Dynastie"}}</p> 
+     <p style="padding:0px;margin:0px">{{"Konfession: "}}{{index .Dokument "Braut" "Braut Konfession"}}</p> </div>
+ </details>
+ <details> <summary>{{"Akteur Bräutigam"}}</summary><div style="text-indent:70px" >
+     <p style="padding:0px;margin:0px">{{"Akteur Bräutigam: "}}{{index .Dokument "Akteur Br\u00e4utigam" "Akteur Br\u00e4utigam Name, Titel"}}</p> 
+     <p style="padding:0px;margin:0px">{{"Akteur Bräutigam GND: "}}{{index .Dokument "Akteur Br\u00e4utigam" "Akteur Br\u00e4utigam GND"}}</p>      
+     <p style="padding:0px;margin:0px">{{"Akteur Bräutigam Dynastie: "}}{{index .Dokument "Akteur Br\u00e4utigam" "Akteur Br\u00e4utigam Dynastie"}}</p> 
+     <p style="padding:0px;margin:0px">{{"Verhältnis zu Bräutigam: "}}{{index .Dokument "Akteur Br\u00e4utigam" "Akteur Br\u00e4utigam Verh\u00e4ltnis zu Br\u00e4utigam"}}</p>  </div>
+ </details>
+  <details> <summary>{{"Akteur Braut"}}</summary><div style="text-indent:70px" >
+     <p style="padding:0px;margin:0px">{{"Akteur Braut: "}}{{index .Dokument "Akteur Braut" "Akteur Braut Name, Titel"}}</p> 
+     <p style="padding:0px;margin:0px">{{"Akteur Braut GND: "}}{{index .Dokument "Akteur Braut" "Akteur Braut GND"}}</p>      
+     <p style="padding:0px;margin:0px">{{"Akteur Braut Dynastie: "}}{{index .Dokument "Akteur Braut" "Akteur Braut Dynastie"}}</p> 
+     <p style="padding:0px;margin:0px">{{"Verhältnis zu Braut: "}}{{index .Dokument "Akteur Braut" "Akteur Braut Verh\u00e4ltnis zu Braut"}}</p>  </div>
+ </details>
+  <details> <summary>{{"Vertragstext"}}</summary><div style="text-indent:70px" >
+     <p style="padding:0px;margin:0px">{{"Archivexemplar: "}}{{index .Dokument "Vertragstext" "Archivexemplar"}}</p> 
+     <p style="padding:0px;margin:0px">{{"Vertragssprache: "}}{{index .Dokument "Vertragstext" "Vertragssprache Archivexemplar"}}</p>      
+     <p style="padding:0px;margin:0px">{{"Digitalsat Archivexemplar: "}}{{index .Dokument "Vertragstext" "Digitalisat Archivexemplar"}}</p> 
+     <p style="padding:0px;margin:0px">{{"Drucknachweis: "}}{{index .Dokument "Vertragstext" "Drucknachweis"}}</p>   
+     <p style="padding:0px;margin:0px">{{"Vertragssprache: "}}{{index .Dokument "Vertragstext" "Vertragssprache Druck"}}</p> 
+     <p style="padding:0px;margin:0px">{{"Digitalsat Druck: "}}{{index .Dokument "Vertragstext" "Digitalisat Druck"}}</p> 
+     <p style="padding:0px;margin:0px">{{"Vertragsinhalt: "}}{{index .Dokument "Vertragstext" "Vertragsinhalt"}}</p></div>  
+ </details>
+  <details> <summary>{{"Einordnung"}}</summary><div style="text-indent:70px" >
+  <p style="padding:0px;margin:0px">{{"Textbezug zu vergangenen Ereignissen?: "}}{{index .Dokument "Einordnung des Vertrags" "Textbezug zu vergangenen Ereignissen?"}}</p> 
+  <p style="padding:0px;margin:0px">{{"ständische Instanzen beteiligt?: "}}{{index .Dokument "Einordnung des Vertrags" "st\u00e4ndische Instanzen beteiligt?"}}</p>  
+  <p style="padding:0px;margin:0px">{{"externe Instanzen beteiligt?: "}}{{index .Dokument "Einordnung des Vertrags" "externe Instanzen beteiligt?"}}</p> 
+  <p style="padding:0px;margin:0px">{{"Ratifikation erwähnt?: "}}{{index .Dokument "Einordnung des Vertrags" "Ratifikationen, Best\u00e4tigungen, Genehmigungen erw\u00e4hnt?"}}</p>   
+  <p style="padding:0px;margin:0px">{{"weitere Verträge: "}}{{index .Dokument "Einordnung des Vertrags" "weitere Vertr\u00e4ge zwischen Vertragsparteien im Zusammenhang mit dieser Ehe"}}</p> 
+  <p style="padding:0px;margin:0px">{{"Schlagwörter: "}}{{index .Dokument "Einordnung des Vertrags" "Schlagw\u00f6rter"}}</p> 
+  <p style="padding:0px;margin:0px">{{"Kommentar: "}}{{index .Dokument "Einordnung des Vertrags" "Kommentar"}}</p> </div>
+ </details> </div>
+ </details>
+ {{end}}
+</div>

@@ -1,0 +1,6 @@
+
+{{ range .Site.Data }}
+{{index  .Dokument "Grunddaten Ehevertrag" "Vertragspartner Br\u00e4utigam" |  findRE "Frankreich" }}
+{{end}}
+
+
