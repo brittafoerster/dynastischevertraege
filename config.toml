@@ -15,8 +15,13 @@ relativeURLs = true
 
 [markup.tableOfContents]
   startLevel = 1
+
+[outputFormats]
+  [outputFormats.SearchIndex]
+    baseName = "search"
+    mediaType = "application/json"
 [outputs]
-    home = [ "HTML", "JSON", "RSS"]
+    home = [ "HTML", "JSON", "RSS", "SearchIndex"]
     
 # Multi-lingual mode config
 # There are different options to translate files
