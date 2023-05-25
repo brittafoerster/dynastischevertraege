@@ -4,11 +4,6 @@ title: "Verträge"
 
 <h1>Dynastische Eheverträge der frühen Neuzeit</h1>
 
-
-
-
-
-
 <div>
 <p><input id="search" type="text" placeholder="Enter your query"></p>
 
@@ -464,7 +459,6 @@ title: "Verträge"
 {{</details >}}|
 <br>
 <h2> Alle Verträge (220)</h2>
-
 
 
 

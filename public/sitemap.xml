@@ -600,8 +600,6 @@
   </url><url>
     <loc>/categories/braut-savoyen-aumale/</loc>
   </url><url>
-    <loc>/tags/braut-savoyen-piemont/</loc>
-  </url><url>
     <loc>/categories/braut-savoyen-piemont/</loc>
   </url><url>
     <loc>/categories/braut-savoyen/frankreich/</loc>
@@ -619,8 +617,6 @@
     <loc>/categories/braut-schweden/</loc>
   </url><url>
     <loc>/categories/braut-solms-laubach/</loc>
-  </url><url>
-    <loc>/tags/braut-spanien/</loc>
   </url><url>
     <loc>/categories/braut-spanien/</loc>
   </url><url>
@@ -669,8 +665,6 @@
     <loc>/categories/br%C3%A4utigamd%C3%A4nemark/</loc>
   </url><url>
     <loc>/categories/br%C3%A4utigamengland/</loc>
-  </url><url>
-    <loc>/tags/br%C3%A4utigamfrankreich/</loc>
   </url><url>
     <loc>/categories/br%C3%A4utigamfrankreich/</loc>
   </url><url>
@@ -892,6 +886,8 @@
   </url><url>
     <loc>/categories/eheschlie%C3%9Fung-vollzogennein/</loc>
   </url><url>
+    <loc>/categories/ehevertrag/</loc>
+  </url><url>
     <loc>/post/v144/</loc>
   </url><url>
     <loc>/post/v185/</loc>
@@ -1024,8 +1020,6 @@
   </url><url>
     <loc>/post/v1/</loc>
   </url><url>
-    <loc>/vertraege/v1/</loc>
-  </url><url>
     <loc>/post/v70/</loc>
   </url><url>
     <loc>/post/v100/</loc>
@@ -1041,8 +1035,6 @@
     <loc>/post/v0/</loc>
   </url><url>
     <loc>/post/v199/</loc>
-  </url><url>
-    <loc>/vertraege/v0/</loc>
   </url><url>
     <loc>/post/v86/</loc>
   </url><url>
@@ -1306,17 +1298,11 @@
   </url><url>
     <loc>/feedback/</loc>
   </url><url>
-    <loc>/filter/</loc>
-  </url><url>
     <loc>/post/v51/</loc>
   </url><url>
     <loc>/glossar/</loc>
   </url><url>
     <loc>/post/v85/</loc>
-  </url><url>
-    <loc>/tags/jahr1612/</loc>
-  </url><url>
-    <loc>/tags/jahr1696/</loc>
   </url><url>
     <loc>/categories/</loc>
   </url><url>
@@ -1327,9 +1313,6 @@
     <loc>/categories/ratifikationnein/</loc>
   </url><url>
     <loc>/post/v158/</loc>
-  </url><url>
-    <loc>/search/</loc>
-    <priority>0.1</priority>
   </url><url>
     <loc>/categories/sonstigesja/</loc>
   </url><url>
@@ -1356,7 +1339,5 @@
     <loc>/categories/verschiedenkonfessionelle-eheunbekannt/</loc>
   </url><url>
     <loc>/post/</loc>
-  </url><url>
-    <loc>/vertraege/</loc>
   </url>
 </urlset>

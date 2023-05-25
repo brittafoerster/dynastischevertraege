@@ -32,7 +32,8 @@ relativeURLs = true
  # languageName = 'English'
  # contentDir = 'content.en'
  # weight = 1
-#paginate = 15
+paginate = 15
+paginatePath  ="page"
 #disableKinds = ['taxonomy', 'taxonomyTerm']
 
 [menu]
