@@ -9,10 +9,17 @@ relativeURLs = true
 #enableGitInfo = true
 
 # Needed for mermaid/katex shortcodes
-[markup]
-[markup.goldmark.renderer]
-  unsafe = true
+paginate = 15
+paginatePath  ="page"
 
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.parser]
+      [markup.goldmark.parser.attribute]
+        block = true
+   [markup.goldmark.renderer]
+  unsafe = true     
 [markup.tableOfContents]
   startLevel = 1
 
@@ -32,8 +39,8 @@ relativeURLs = true
  # languageName = 'English'
  # contentDir = 'content.en'
  # weight = 1
-paginate = 15
-paginatePath  ="page"
+
+
 #disableKinds = ['taxonomy', 'taxonomyTerm']
 
 [menu]
