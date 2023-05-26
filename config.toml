@@ -1,7 +1,9 @@
-baseURL = '/'
+#baseURL = "/"
+relativeURLs = true
+canonifyURLs = false
 title = 'Dynastische Eheverträge'
 theme = 'book'
-relativeURLs = true
+
 # Book configuration
 #disablePathToLower = true
 #enableGitInfo = true

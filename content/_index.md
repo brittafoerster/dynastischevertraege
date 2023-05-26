@@ -1,6 +1,6 @@
 ---
 title: "Dynastische Eheverträge der frühen Neuzeit"
-
+draft: false
 ---
 
 <!DOCTYPE html>
