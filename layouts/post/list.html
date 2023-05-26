@@ -4,7 +4,7 @@
       {{- .Content -}}
     </section>
     <section class="flex-ns flex-wrap justify-around mt5">
-      {{ range .Pages }}
+      {{ range .Paginator.Pages }}
         <div class="relative w-100 w-30-l mb4 bg-white">
           {{ .Title }}
            <a class="btn btn-default" href="{{.RelPermalink}}" id="read-more-button">
