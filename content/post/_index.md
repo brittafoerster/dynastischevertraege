@@ -1,6 +1,7 @@
 ---
 title: "Verträge"
 draft: false
+layout: list
 ---
 
 <h1>Dynastische Eheverträge der frühen Neuzeit</h1>
