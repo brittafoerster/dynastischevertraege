@@ -1,0 +1,19 @@
+<details >
+<summary> Französische Revolution </summary>
+<section id="menu">
+    <ul>
+        {{ range $key, $taxonomy := .Site.Taxonomies.tags }}
+        {{ if and (le $key "1799") (ge $key "1789")}}
+        <li> {{ $key }} </li>
+                <ul>
+            {{ range $taxonomy.Pages }}
+            <li hugo-nav="{{ .RelPermalink}}"><a href="{{ .Permalink}}"> {{ .LinkTitle }} </a> </li>
+            {{ end }}
+        </ul>
+        {{ end }}
+        {{ end }}
+    </ul>
+</section>
+</details>
+
+

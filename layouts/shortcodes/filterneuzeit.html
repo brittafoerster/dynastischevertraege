@@ -1,0 +1,19 @@
+<details >
+<summary> Frühe Neuzeit </summary>
+<section id="menu">
+    <ul>
+        {{ range $key, $taxonomy := .Site.Taxonomies.tags }}
+        {{ if and (le $key "1789") (ge $key "1450")}}
+        <li> {{ $key }} </li>
+                <ul>
+            {{ range $taxonomy.Pages }}
+            <li hugo-nav="{{ .RelPermalink}}"><a href="{{ .Permalink}}"> {{ .LinkTitle }} </a> </li>
+            {{ end }}
+        </ul>
+        {{ end }}
+        {{ end }}
+    </ul>
+</section>
+</details>
+
+
