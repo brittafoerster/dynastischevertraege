@@ -1,7 +1,6 @@
 ---
 title: "Literatur und Quellen"
-cascade:
-  featured_image: '/img/literatur.jpg'
+
 
 ---
 
@@ -9,7 +8,6 @@ cascade:
 
 <html>
   <head>
-    <title>Title of the document</title>
     <style>
       .center-cropped {
         width: 800px;
@@ -28,7 +26,7 @@ cascade:
   </head>
   <body>
     <div class="center-cropped">
-      <img src="lit.png" /></div>
+      <img src="lit.jpg" /></div>
       <a href="https://www.digitale-sammlungen.de/de/view/bsb10491322?page=,1"><div style="text-indent:185px;"><font size="-3">Quelle: DuMont: Corps Universel du Droit des Gens, Bd. V, 2, 1728, S. 476</font></div> </a>
   </body>
 </html>
