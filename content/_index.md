@@ -6,7 +6,6 @@ draft: false
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Title of the document</title>
     <style>
       h1 {
         text-align: center;
