@@ -6,7 +6,11 @@ title: "Literatur und Quellen"
 
 <h1> Literatur und Quellen </h1>
 
-{{< figure src="/litera.jpg" width="550" caption="<span class=\"figure-number\">Quelle: </span>[uMont: Corps Universel du Droit des Gens, Bd. V, 2, 1728, S. 476](https://www.digitale-sammlungen.de/de/view/bsb10491322?page=,1)" >}}
+<figure>
+  <img src="litera.jpg" alt="Trulli" style="width:100%">
+  <figcaption> <a href="https://www.digitale-sammlungen.de/de/view/bsb10491322?page=,1"><div style="text-indent:185px;"><font size="-3">Quelle: DuMont: Corps Universel du Droit des Gens, Bd. V, 2, 1728, S. 476</font></div> </a></figcaption>
+</figure>
+
 
 
 

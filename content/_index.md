@@ -22,7 +22,7 @@ draft: false
     </style>
   </head>
   <body>
-<div class="image"><br></br><h1> Dynastische Eheverträge in der frühen Neuzeit</h1><h1> 1500 - 1800 </h1></div>
+<div class="image"><br></br><h1> Dynastische Eheverträge in der frühen Neuzeit</h1><h1> 1500 - 1800 </h1></div></body>
 </html>
 
 
