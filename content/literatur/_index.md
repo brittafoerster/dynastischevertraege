@@ -14,7 +14,7 @@ cascade:
       .center-cropped {
         width: 800px;
         height: 200px;
-        background-image: url('/lit.png');
+        background-image: url('/lit.jpg');
         background-position: center center;
         background-repeat: no-repeat;
         overflow: hidden;
