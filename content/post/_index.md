@@ -321,6 +321,7 @@ layout: list
 
 <h2> Alle Verträge (220)</h2>
 
+[Download Alle Verträge (zip)](/vertraege/vertraege.zip)
 
 
 
