@@ -1,7 +1,7 @@
 ---
 title: "Über das Projekt"
 description: "Warum ist die Erforschung dynastischer Ehen und Eheverträge der Frühen Neuzeit für die Geschichtswissenschaft so interessant und woher stammen unsere Daten? Erfahren Sie mehr über das Projekt und seine Ziele!"
-
+slug: about
 ---
 
 <h1> Über das Projekt </h1>

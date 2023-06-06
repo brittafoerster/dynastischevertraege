@@ -42,7 +42,10 @@ paginatePath  ="page"
 
 
 #disableKinds = ['taxonomy', 'taxonomyTerm']
-
+[permalinks]
+  posts = '/:year/:month/:slug/'
+  tags = '/:title/'
+  categories = '/:title/'
 [menu]
 [[menu.before]]
 name = "Startseite"
