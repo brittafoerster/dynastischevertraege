@@ -28,7 +28,7 @@ paginatePath  ="page"
     baseName = "search"
     mediaType = "application/json"
 [outputs]
-    home = [ "HTML", "JSON", "RSS", "SearchIndex"]
+    home = [ "HTML", "JSON"]
     
 # Multi-lingual mode config
 # There are different options to translate files
