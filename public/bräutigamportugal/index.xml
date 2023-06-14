@@ -4,9 +4,10 @@
     <title>Bräutigam:Portugal on Dynastische Eheverträge</title>
     <link>/br%C3%A4utigamportugal/</link>
     <description>Recent content in Bräutigam:Portugal on Dynastische Eheverträge</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="/br%C3%A4utigamportugal/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="/br%C3%A4utigamportugal/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Ehevertrag Portugal - Kurpfalz 1687</title>
+      <title>Portugal - Kurpfalz</title>
       <link>/post/vertraege/g-170/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -15,16 +16,7 @@
     </item>
     
     <item>
-      <title>Ehevertrag Portugal - Österreich 1518</title>
-      <link>/post/vertraege/g-242/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/post/vertraege/g-242/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ehevertrag Portugal - Österreich 1708</title>
+      <title>Portugal - Österreich</title>
       <link>/post/vertraege/g-174/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -33,7 +25,7 @@
     </item>
     
     <item>
-      <title>Ehevertrag Portugal - Savoyen-Aumale 1666</title>
+      <title>Portugal - Savoyen-Aumale</title>
       <link>/post/vertraege/g-165/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -42,20 +34,20 @@
     </item>
     
     <item>
-      <title>Ehevertrag Portugal - Spanien 1727</title>
-      <link>/post/vertraege/g-181/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/post/vertraege/g-181/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ehevertrag Portugal - Spanien 1785</title>
+      <title>Portugal - Spanien</title>
       <link>/post/vertraege/g-193/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/post/vertraege/g-193/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Portugal - Spanien</title>
+      <link>/post/vertraege/g-181/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/vertraege/g-181/</guid>
       <description></description>
     </item>
     
