@@ -34,7 +34,7 @@ draft: false
 </div>
 Dynastische Eheverträge als Zeugnisse europäischer Politik in der Frühen Neuzeit
 L’état, c’est moi! – Dieses Diktum wird seit dem späten 18. Jahrhundert Ludwig XIV. von Frankreich zugesprochen. Obwohl es als unwahrscheinlich gilt, dass der Sonnenkönig jenen Ausspruch tatsächlich tätigte, symbolisiert er die enge Verbindung des Monarchen – und damit der Dynastie – mit dem Staat in der Frühen Neuzeit. Durch diese Verbindung wurden Fürstenehen und dynastische Eheverträge zentrale Bestandteile der europäischen Politik der Epoche. Ihre wissenschaftliche Erforschung bietet daher Aufschluss über Prozesse und Spielregeln der monarchischen Mächtebeziehungen, welche Europa zwischen ca. 1500 und 1800 prägten.
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=GITHUB-USERNAME&label=Profile%20views&color=ce9927&style=flat" alt="GITHUB-USERNAME" /> </p>
+
 {{<columns>}}
 [![](/images/projekt.jpg "Projekt")*Über das Projekt <br> Warum wir uns mit frühzeitlichen Eheverträgen beschäftigen und sie für die Forschung relevant sind, lesen Sie hier*]({{< relref "/about/_index.md" >}})
 <---> 
